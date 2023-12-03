@@ -1,0 +1,1 @@
+The basic calculator app in Android Studio, built with Kotlin, offers standard arithmetic operations (addition, subtraction, multiplication, division). Users input values through a keypad, and results are displayed in real-time. The app features a simple and intuitive user interface, providing essential functionality for performing calculations on a mobile device.
